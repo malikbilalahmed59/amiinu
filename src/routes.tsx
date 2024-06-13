@@ -5,7 +5,7 @@ import { Routes, TokenKey } from "./constant";
 import Dashboard from "./Pages/Dashboard/Dashboard";
 import Layout from "./Layout/Layout";
 import Login from "./Pages/Auth/Login";
-import Register from ".git remote add origin https://github.com/malikbilalahmed59/amiinu.git";
+import Register from "./Pages/Auth/Register";
 import GetQuote from "./Pages/Quote/GetQuote";
 import RequstQuote from "./Pages/Quote/RequstQuote";
 import QuoteDashboard from "./Pages/Quote/Quotedashboard";
